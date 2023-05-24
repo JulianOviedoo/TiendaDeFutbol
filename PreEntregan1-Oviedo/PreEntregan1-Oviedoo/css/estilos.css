@@ -1,0 +1,91 @@
+h1 {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+    
+header {
+    background-color: chocolate;
+}
+
+footer{
+    background-color: brown;
+    height: 300px;
+    margin-top: 10%;
+}
+
+body{
+    background-image: url(https://i.pinimg.com/originals/cd/d9/bd/cdd9bd825962df5bdb0b96f130e5beec.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.grande{
+    font-size: 20px;
+}
+
+.grande{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+*{ 
+    margin: 0;
+}
+
+.licontainer{
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+img{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.navbar{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    display: inline;
+}
+
+
+.fixed{
+    height: 100px;
+    width: 150px;
+    position: fixed;
+    left: 1500px;
+}
+
+.logo{
+    height: 100%;
+    width: 100%;
+}
+
+#areadetexto{
+    display: block;
+    margin-top: 10px;
+}
+
+.texto{
+    margin-top: 30px;
+}
+
+#email{
+    display: block;
+    margin-top: 10px;
+}
+
+fieldset{
+    background-color: darkcyan;
+}
+
+legend{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+
+iframe{
+    margin-top: 40px;
+} 
